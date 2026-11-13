@@ -1,0 +1,23 @@
+# Python 编译产物
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# 运行时日志
+*.log
+
+# 构建与发布产物（不进仓库，见 Releases）
+安装包/
+安装包制作/
+测试输出/
+工具/
+lib/
+
+# 编辑器与系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
